@@ -1,7 +1,7 @@
 # xls_drawing_cards
 Printable drawing cards game for 5 year old children.
 The idea is that you take turns to draw and the other guesses (or you could do in pairs or with a judge... i.e. Mom).
-You can add rules such as number of clues/retries. 
+You can add rules such as number of clues/retries or a timer.
 The grown up should draw the advanced word, for normal point. 
 If the child draws the advanced word then he/she gets extra points.
 Some ideas:
