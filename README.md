@@ -6,7 +6,7 @@ The grown up should draw the advanced word, for normal point.
 If the child draws the advanced word then he/she gets extra points.
 Some ideas:
 - Make the child keep the tally of point to make him/her summ and track who is winning
-- You can get fonts from the internet to be more alligned to what they learn at school
+- You can get fonts from the internet to match the shapes they learn at school
 - As it was a bit difficult to read sometimes, I switched to upper case. But I reckon I should stick to sentence case...
 - You can ask the child to write the word he/she guesses for extra points.
 - You can use whiteboard or one of these show-me pads when on the road
